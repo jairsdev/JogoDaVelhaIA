@@ -1,1 +1,1 @@
-Jogo da velha desenvolvido com inteligência artificial que utiliza a ideia de aprendizagem com reforço como treinamento. O algoritimo usado no treinamento foi o Q-Learning e o ambiente personalizado do jogo foi feito com a biblioteca em Python Gymnasium da OpenAI.
+Jogo da velha, desenvolvido em Python, que usa inteligência artificial no player que joga contra o usuário respaldada na aprendizagem com reforço. O algoritimo utilizado no treinamento foi o Q-Learning e o ambiente personalizado do jogo foi feito com a biblioteca Gymnasium da OpenAI.
